@@ -9,8 +9,9 @@
 
 4. Реализуйте метод, принимающий в качестве аргументов два целочисленных массива, и возвращающий новый массив, каждый элемент которого равен разности элементов двух входящих массивов в той же ячейке. Если длины массивов не равны, необходимо как-то оповестить пользователя.
 
-5. Реализуйте метод, принимающий в качестве аргументов два целочисленных массива, и возвращающий новый массив, каждый элемент которого равен частному элементов двух входящих массивов в той же ячейке. Если длины массивов не равны, необходимо как-то оповестить пользователя. Важно: При выполнении метода единственное исключение, которое пользователь может увидеть - RuntimeException, т.е. ваше.
+5. Реализуйте метод, принимающий в качестве аргументов два целочисленных массива, и возвращающий новый массив, каждый элемент которого равен частному элементов двух входящих массивов в той же ячейке. Если длины массивов не равны, необходимо как-то оповестить пользователя. 
 
+Важно: При выполнении метода единственное исключение, которое пользователь может увидеть - RuntimeException, т.е. ваше.
 
 ==
 
@@ -25,4 +26,6 @@ Link to the code: https://disk .yandex.ru/i/k7poCYCXVQs6-Q
 
 4. Implement a method that takes two integer arrays as arguments and returns a new array, each element of which is equal to the difference between the elements of two incoming arrays in the same cell. If the array lengths are not equal, it is necessary to notify the user somehow.
 
-5. Implement a method that takes two integer arrays as arguments and returns a new array, each element of which is equal to the quotient of the elements of two incoming arrays in the same cell. If the array lengths are not equal, it is necessary to notify the user somehow. Important: When executing the method, the only exception that the user can see is RuntimeException, i.e. yours.
+5. Implement a method that takes two integer arrays as arguments and returns a new array, each element of which is equal to the quotient of the elements of two incoming arrays in the same cell. If the array lengths are not equal, it is necessary to notify the user somehow. 
+
+Important: When executing the method, the only exception that the user can see is RuntimeException, i.e. yours.
